@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "src": "/json/stats.json",
+            "dest": "https://probe.fearr.xyz/json/stats.json"
+        },
+        {
+            "src": "/detail",
+            "dest": "https://probe.fearr.xyz/detail"
+        },
+        {
+            "src": "/map",
+            "dest": "https://probe.fearr.xyz/map"
+        },
+        {
+            "src": "/i",
+            "dest": "https://probe.fearr.xyz/i"
+        },
+        {
+            "src": "/report",
+            "dest": "https://probe.fearr.xyz/report"
+        }
+    ]
+}
